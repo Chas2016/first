@@ -1,2 +1,3 @@
 # first
-first use git 
+first use git
+test git command
